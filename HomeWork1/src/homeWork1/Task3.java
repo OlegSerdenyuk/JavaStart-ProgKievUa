@@ -1,13 +1,13 @@
 package homeWork1;
 
-/*
- * Написать программу которая вычислит и выведет на экран длину окружности,
- * если ее радиус считывается с клавиатуры.
- */
-
 import java.util.Scanner;
 
 public class Task3 {
+	
+	/*
+	 * Написать программу которая вычислит и выведет на экран длину окружности,
+	 * если ее радиус считывается с клавиатуры.
+	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
